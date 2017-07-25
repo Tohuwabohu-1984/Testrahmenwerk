@@ -1,0 +1,245 @@
+----------------
+_FH
+recall AUC,38.553485194274678
+precision AUC,15.44299057717228
+best possible recall,0.085695397537502785
+AVG number of candidates,910.0
+----------------
+----------------
+_MFRO
+recall AUC,3.0249999999999999
+precision AUC,2.2755050579037563
+best possible recall,0.0053571428571428581
+AVG number of candidates,910.0
+----------------
+----------------
+_FH_MFRO
+recall AUC,0.0
+precision AUC,0.0
+best possible recall,0.0
+AVG number of candidates,910.0
+----------------
+----------------
+_MFGR
+recall AUC,2.2979853479853478
+precision AUC,1.1923944729906375
+best possible recall,0.0054029304029304037
+AVG number of candidates,910.0
+----------------
+----------------
+_FH
+recall AUC,36.758981836087109
+precision AUC,15.077810607988622
+best possible recall,0.081640223219170582
+AVG number of candidates,910.0
+----------------
+----------------
+_MFRO
+recall AUC,2.9324999999999997
+precision AUC,1.702373706075661
+best possible recall,0.0050000000000000001
+AVG number of candidates,910.0
+----------------
+----------------
+_FH_MFRO
+recall AUC,14.606982893824995
+precision AUC,7.2283375554018257
+best possible recall,0.025729292045081519
+AVG number of candidates,910.0
+----------------
+----------------
+_MFGR
+recall AUC,3.2171794871794868
+precision AUC,1.6693522621868924
+best possible recall,0.0075641025641025646
+AVG number of candidates,910.0
+----------------
+----------------
+_FH_MFGR
+recall AUC,21.623264945107056
+precision AUC,9.9930181543942176
+best possible recall,0.040921599737389215
+AVG number of candidates,910.0
+----------------
+----------------
+_MFRO_MFGR
+recall AUC,1.4513513513513512
+precision AUC,0.7295498733903889
+best possible recall,0.0027027027027027029
+AVG number of candidates,910.0
+----------------
+----------------
+_FH_MFRO_MFGR
+recall AUC,10.472499999999998
+precision AUC,8.8890214432547694
+best possible recall,0.017756410256410258
+AVG number of candidates,910.0
+----------------
+----------------
+_MFBL
+recall AUC,1.2421052631578953
+precision AUC,0.27645639347892509
+best possible recall,0.002631578947368421
+AVG number of candidates,910.0
+----------------
+----------------
+_FH_MFBL
+recall AUC,16.394931611773714
+precision AUC,7.8541978706764857
+best possible recall,0.030793394609184087
+AVG number of candidates,910.0
+----------------
+----------------
+_MFRO_MFBL
+recall AUC,2.2000000000000002
+precision AUC,1.8114170938664917
+best possible recall,0.0025641025641025641
+AVG number of candidates,910.0
+----------------
+----------------
+_FH_MFRO_MFBL
+recall AUC,9.1868520443520438
+precision AUC,4.9919638401112927
+best possible recall,0.012895010395010394
+AVG number of candidates,910.0
+----------------
+----------------
+_MFGR_MFBL
+recall AUC,0.0
+precision AUC,0.0
+best possible recall,0.0
+AVG number of candidates,910.0
+----------------
+----------------
+_FH_MFGR_MFBL
+recall AUC,6.2345443520443524
+precision AUC,2.3742409710183594
+best possible recall,0.010330907830907832
+AVG number of candidates,910.0
+----------------
+----------------
+_MFRO_MFGR_MFBL
+recall AUC,4.4868953568953565
+precision AUC,2.0092459453593472
+best possible recall,0.007766805266805267
+AVG number of candidates,910.0
+----------------
+----------------
+_FH_MFRO_MFGR_MFBL
+recall AUC,10.350367563920194
+precision AUC,5.089863449130827
+best possible recall,0.018090691906481382
+AVG number of candidates,910.0
+----------------
+----------------
+_COCO
+recall AUC,0.0
+precision AUC,0.0
+best possible recall,0.0
+AVG number of candidates,910.0
+----------------
+----------------
+_FH_COCO
+recall AUC,32.238998705182922
+precision AUC,12.154132436365806
+best possible recall,0.071771802166539028
+AVG number of candidates,910.0
+----------------
+----------------
+_MFRO_COCO
+recall AUC,0.0
+precision AUC,0.0
+best possible recall,0.0
+AVG number of candidates,910.0
+----------------
+----------------
+_FH_MFRO_COCO
+recall AUC,13.071662381004485
+precision AUC,7.1423372670961784
+best possible recall,0.02322929204508152
+AVG number of candidates,910.0
+----------------
+----------------
+_MFGR_COCO
+recall AUC,2.059679487179487
+precision AUC,0.74750199527071093
+best possible recall,0.0050641025641025642
+AVG number of candidates,910.0
+----------------
+----------------
+_FH_MFGR_COCO
+recall AUC,14.712688022030125
+precision AUC,8.3127397530657294
+best possible recall,0.025793394609184082
+AVG number of candidates,910.0
+----------------
+----------------
+_MFRO_MFGR_COCO
+recall AUC,3.4063513513513515
+precision AUC,1.3304539821160544
+best possible recall,0.007702702702702703
+AVG number of candidates,910.0
+----------------
+----------------
+_FH_MFRO_MFGR_COCO
+recall AUC,12.713097165991901
+precision AUC,9.5551955389579923
+best possible recall,0.02032388663967611
+AVG number of candidates,910.0
+----------------
+----------------
+_MFBL_COCO
+recall AUC,2.6069701280227591
+precision AUC,0.43798465255479402
+best possible recall,0.0053342816500711234
+AVG number of candidates,910.0
+----------------
+----------------
+_FH_MFBL_COCO
+recall AUC,22.70275212459423
+precision AUC,10.573750967592481
+best possible recall,0.043485702301491777
+AVG number of candidates,910.0
+----------------
+----------------
+_MFRO_MFBL_COCO
+recall AUC,4.3607051282051277
+precision AUC,1.7831763150151958
+best possible recall,0.0076282051282051287
+AVG number of candidates,910.0
+----------------
+----------------
+_FH_MFRO_MFBL_COCO
+recall AUC,16.035387806835175
+precision AUC,10.965460579040034
+best possible recall,0.025722270853849798
+AVG number of candidates,910.0
+----------------
+----------------
+_MFGR_MFBL_COCO
+recall AUC,4.0217602217602213
+precision AUC,2.2350718049956884
+best possible recall,0.0052668052668052665
+AVG number of candidates,910.0
+----------------
+----------------
+_FH_MFGR_MFBL_COCO
+recall AUC,13.722567294014661
+precision AUC,8.4232308615781015
+best possible recall,0.023158168289747236
+AVG number of candidates,910.0
+----------------
+----------------
+_MFRO_MFGR_MFBL_COCO
+recall AUC,2.2894594594594602
+precision AUC,0.8309100957341391
+best possible recall,0.0052027027027027033
+AVG number of candidates,910.0
+----------------
+----------------
+_FH_MFRO_MFGR_MFBL_COCO
+recall AUC,12.492867563920194
+precision AUC,6.7606163625290581
+best possible recall,0.020590691906481381
+AVG number of candidates,910.0
+----------------

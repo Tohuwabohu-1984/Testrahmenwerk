@@ -1,0 +1,105 @@
+----------------
+_FH
+recall AUC,40.519184544600563
+precision AUC,13.54285621438139
+best possible recall,0.080438774278267317
+AVG number of candidates,910.0
+----------------
+----------------
+_INSI
+recall AUC,0.0
+precision AUC,0.0
+best possible recall,0.0
+AVG number of candidates,910.0
+----------------
+----------------
+_FH_INSI
+recall AUC,46.598645758910855
+precision AUC,13.334757861385238
+best possible recall,0.095490803862030654
+AVG number of candidates,910.0
+----------------
+----------------
+_COCO
+recall AUC,0.0
+precision AUC,0.0
+best possible recall,0.0
+AVG number of candidates,910.0
+----------------
+----------------
+_FH_COCO
+recall AUC,38.441978662247621
+precision AUC,12.514344754220023
+best possible recall,0.076762303690032022
+AVG number of candidates,910.0
+----------------
+----------------
+_INSI_COCO
+recall AUC,19.592105263157894
+precision AUC,2.2670202326057889
+best possible recall,0.04135142543859649
+AVG number of candidates,910.0
+----------------
+----------------
+_FH_INSI_COCO
+recall AUC,48.283243282130663
+precision AUC,13.362071295191901
+best possible recall,0.099167274450265949
+AVG number of candidates,910.0
+----------------
+----------------
+_FILL
+recall AUC,14.105053534571722
+precision AUC,0.91230345351239983
+best possible recall,0.035587590299277605
+AVG number of candidates,910.0
+----------------
+----------------
+_FH_FILL
+recall AUC,21.856474058921815
+precision AUC,2.9868578281502041
+best possible recall,0.047284149405376188
+AVG number of candidates,910.0
+----------------
+----------------
+_INSI_FILL
+recall AUC,5.6537587074303417
+precision AUC,0.32108458779332505
+best possible recall,0.014161667956656347
+AVG number of candidates,910.0
+----------------
+----------------
+_FH_INSI_FILL
+recall AUC,31.891671958932015
+precision AUC,5.4341979379357541
+best possible recall,0.067183055324018942
+AVG number of candidates,910.0
+----------------
+----------------
+_COCO_FILL
+recall AUC,5.9477554179566567
+precision AUC,0.35415530683610374
+best possible recall,0.016834365325077399
+AVG number of candidates,910.0
+----------------
+----------------
+_FH_COCO_FILL
+recall AUC,42.769757597708463
+precision AUC,7.8086818453866149
+best possible recall,0.090722472777910082
+AVG number of candidates,910.0
+----------------
+----------------
+_INSI_COCO_FILL
+recall AUC,8.6911764705882337
+precision AUC,0.50788402230032037
+best possible recall,0.023413312693498452
+AVG number of candidates,910.0
+----------------
+----------------
+_FH_INSI_COCO_FILL
+recall AUC,37.902109298510226
+precision AUC,5.0994295304348896
+best possible recall,0.076433533517995589
+AVG number of candidates,910.0
+----------------
